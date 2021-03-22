@@ -1,0 +1,32 @@
+{
+  "name": "volkeno-react-native-drag-and-drop",
+  "version": "1.1.0",
+  "description": "a react native drag and drop module developped by volkeno",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babacarMbengue12/volkeno-react-native-drag-and-drop.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "volkeno-react-native-drag-and-drop",
+    "select2",
+    "volkeno",
+    "drag-and-drop"
+  ],
+  "author": "babacarMbengue12",
+  "license": "MIT",
+  "homepage": "https://github.com/babacarMbengue12/volkeno-react-native-drag-and-drop#readme",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "react": "16.6.1",
+    "react-native": "~0.57.7"
+  }
+}
